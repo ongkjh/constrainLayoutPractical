@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">constrainLayoutPractical</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box Five</string>
+
+    <string-array name="ColorSelection">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+    </string-array>
+</resources>
